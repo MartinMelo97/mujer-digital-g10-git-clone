@@ -8,18 +8,18 @@
 
 ### Cursos tomados e idiomas 
 Ingles intermedio <br>
-Español nativo<br>
-Green belt en seis sigma<br>
-Tecnolochicas pro<br>
+Español nativo <br>
+Green belt en seis sigma <br>
+Tecnolochicas pro <br>
 ISO 9001
 
 ### Habilidades
-✔️Pensamiento analitico 
-✔️Gestión de tiempo 
-✔️Flexible
-✔️Gestión de tiempo
-✔️Trabajo en equipo
+✔️ Pensamiento analitico 
+✔️ Gestión de tiempo 
+✔️ Flexible
+✔️ Gestión de tiempo
+✔️ Trabajo en equipo
 
 ### Contacto
 5554622452 <br>
-anikdelarev@gmail.com
+[Email](mailto:anikdelarev@gmail.com)
