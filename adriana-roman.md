@@ -1,1 +1,3 @@
-# ADRIANA MARGARITA ROMAN CRUZ#
+# ADRIANA MARGARITA ROMAN CRUZ
+Estudiante Ing. Sistemas Computacionales
+
