@@ -1,5 +1,5 @@
 # **Erika Neyra De Jesús Arcos**
-## ***Estudiante | Web Developer***
+## ***Estudiante | Web Developer full stack Jr.***
 ### Chilpancingo; Gro, México
 
 ### 🔔 Contacto
@@ -14,18 +14,18 @@
 ### ⚙ Lenguajes de programación 
 #### (En proceso de aprendizaje) <br>
 ```
-- HTML <br>
-- CSS <br>
-- JavaScript <br>
-- Java <br>
-- SQL <br>
+- HTML
+- CSS
+- JavaScript
+- Java
+- SQL
 ```
 
 ### 💻 Software
 ```
-- Visual Studio Code <br>
-- PostgreSQL <br>
-- Canva <br>
+- Visual Studio Code
+- PostgreSQL
+- Canva
 ```
 
 ### 🧮 Educación 
@@ -55,7 +55,7 @@ Sin experiencia laboral
 
 #### 🩺 *Salud*
 ---
-- Curso básico de Primeros Auxilios "Seis acciones para salvar una vida", Cruz Roja Juventud Delegación Chilpancingo; Gro (2022) <br>
+- Curso básico de Primeros Auxilios "Seis acciones para salvar una vida", Cruz Roja Juventud Delegación Chilpancingo (2022) <br>
 - Preventing Self harmsuicide Empowering Primary Health Care providers, The Pan American Health Organization (2022) <br>
 - Psychological First Aid (PFA) in disaster management in the Caribbean, The Pan American Health Organization (2022) <br>
 ---
@@ -66,10 +66,9 @@ Sin experiencia laboral
 ---
 
 ### 🥇 Reconocimientos
-
 ✔ Mejor desempeño, compromiso y responsabilidad como Jefa del departamento "Cruz Roja Niños" (2023) <br>
 ✔ Mejores Promedios de la XXI Generación 2020 - 2023 de la Preparatoria Universidad Americana de Acapulco, plantel Chilpancingo (2023) <br>
-✔ 2° lugar en el Concurso de Lectura con la obra "Los 7 hábitos de la familia altamente efectiva" autor Steven R. Covey, Lobatchewsky (2017) <br>
+✔ Segundo lugar en el Concurso de Lectura con la obra "Los 7 hábitos de la familia altamente efectiva" autor Steven R. Covey, Lobatchewsky (2017) <br>
 ✔ Participación en el Concurso de la Olimpiada de Conocimiento Infantil (2012) <br>
 
 ### 🤝Voluntariado
@@ -87,9 +86,6 @@ Sin experiencia laboral
 
 - Capacitación al público en el marco del "Día Mundial de la Diabetes" y "Día Mundial de la lucha contra el VIH y SIDA" (2022), Cruz Roja Juventud Chilpancingo <br>
 
-! (\Users\ERIKA\OneDrive\Imágenes\Saved Pictures)
-
-
 ### 💪 Habilidades
 💡 Liderazgo empático <br>
 💡 Creatividad <br>
@@ -98,8 +94,7 @@ Sin experiencia laboral
 💡 Trabajo en equipo <br>
 💡 Resolución de problemas <br>
 
-
 ### 🎶 Acerca de mi
-- Incursionando en el ámbito musical desde 2009 hasta la fecha <br>
-- Pasión por el aprendizaje y el arte <br>
 - Objetivos profesionales basados en iniciativas que promuevan la solidaridad y el bienestar <br>
+- Incursionando en el ámbito musical desde 2009 hasta la fecha <br>
+- Pasión por el aprendizaje y el arte <br> 
