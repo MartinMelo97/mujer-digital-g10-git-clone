@@ -1,8 +1,13 @@
-**###Información personal:**
+**Información personal:**
 Cd. Nezahualcoyotl
 5638201225
 adrianacr.roman11@gmail.com
-**###Objetivo profesional:**
+**Objetivo profesional:**
 Como profesional en sistemas computacionales y diseño gráfico, busco integrar mis habilidades técnicas y creativas para impulsar la innovación y eficiencia, contribuyendo al éxito de la empresa mediante soluciones tecnológicas avanzadas y diseños impactantes.
-Objetivo profesional
-**###Educación:**
+**Educación:**
+Ingeniería en Sistemas Computacionales (Enero 2023- Enero 2026)
+**Experiencia Laboral**
+-A.R Artículos Publicitarios y Personalizados.
++Dueña
+-Agosto 2018- Actual
+
