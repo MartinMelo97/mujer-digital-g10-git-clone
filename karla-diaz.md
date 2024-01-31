@@ -1,3 +1,4 @@
+# Karla Díaz Aguilar ✨👩🏻‍💻
 ### 🔹 About me
 
  I am a *5th semester* student of **Software Development* (LIDTS) by UNACH. With experience in programming in HTML, CSS, JavaScript and MySQL. I’m also an enthusiastic *crochet weaver**.
