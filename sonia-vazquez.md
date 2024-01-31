@@ -40,6 +40,3 @@ supervisión de los planes de grupo.<br>
 🟡 Coordinación del desarrollo de los aprendizajes del área o áreas curriculares afines que están a mi cargo.<br>
 🟡 Promover y acompañar el fortalecimiento de las capacidades de desempeño pedagógico en los docentes.<br>
 🟡 Contribuir a mejorar los aprendizajes de los estudiantes y los resultados educativos del colegio.
-
-
-
